@@ -17,4 +17,4 @@ var d = new Date();
 // if between the hours of 9-6
 // if not https://www.facebook.com/groups/lyftdrivers/
 // then redirect away from facebook
-if (!(d.getDay() === 6) && !(d.getDay() === 0) && (d.getHours() > 8 && d.getHours() < 17) && !(window.location.pathname ===  '/groups/lyftdrivers/')) window.location = 'http://google.com';
+if (!(d.getDay() === 6) && !(d.getDay() === 0) && (d.getHours() > 8 && d.getHours() < 17) && !(window.location.pathname ===  '/groups/lyftdrivers/')) window.location = 'http://briznad.github.io/backToWorkEvan/';
