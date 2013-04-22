@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name backToWorkEvan
-// @namespace http://twitter.com/evangoldin
+// @namespace http://beautifuluniquesnowflake.com
 // @description a userscript to help @evangoldin get off Facebook and back to work
 // @match https://www.facebook.com/*
 // @version 1.0
